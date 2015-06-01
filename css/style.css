@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  padding: 20px 20px;
+  font-family: Helvetica;
+  max-width: 2000px;
+  margin: 0 auto;
+  font-size: 2.6em;
+}
+  
+.concept-title {
+  font-weight: darker;
+  text-align: center;
+}
+
+.concept-description {
+  background-color: #065E50;
+  border-radius: 20px;
+  font-size: .8em;
+  font-weight: lighter;
+  color: black;
+}
